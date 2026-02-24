@@ -1,0 +1,16 @@
+.titulo {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    background-image: linear-gradient(to top, var(--cor04) 30%, var(--cor06));
+    margin: 0;
+}
+
+.titulo {
+    color: var(--cor03);
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.26);
+}
+
+.paragrafo {
+    color: #ECECEC;
+    padding: 20px;
+}

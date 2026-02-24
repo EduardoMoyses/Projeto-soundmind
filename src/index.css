@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  width: 100vw;
+  /*background-color: #1A252F;*/
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+:root {
+    --cor00: #88A8C2; /*Azul-acizentado*/
+    --cor01: #00BCA3; /*Ciano-suave*/
+    --cor02: #5ED6E8; /*Azul-claro*/
+    --cor03:#00FFC6; /*Ciano-claro*/
+    --cor04:#0F2C3F; /*Azul-profundo*/
+    --cor05:#1F4068; /*Azul-médio*/
+    --cor06: #233547; /*Azul-escuro profundo*/
+
+      /* Cores de apoio (contrastantes) */
+    --corAlerta: #FF4C4C;     /* Vermelho alerta */
+    --corSucesso: #5BE47B;    /* Verde sucesso */
+    --corAviso: #FFD93D;      /* Amarelo vibrante */
+  }

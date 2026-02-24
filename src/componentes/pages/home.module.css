@@ -1,0 +1,60 @@
+/*@font-face {
+    font-family: 'tarsica';
+    src: url(../../fontes/TARSICA.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}*/
+
+@font-face {
+    font-family: 'Super Frosting';
+    src: url(../../fontes/Super\ Frosting.ttf) format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+.fundo {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../../img/fundo-home.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top
+}
+
+.conteudo {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: var(--cor04);
+    padding: 10px;
+    border-radius: 10px;
+    margin: 50px 0px 50px 0px;
+    box-shadow: 2px 1px 1px rgba(0, 0, 0, 0.219);
+}
+
+.titulo {
+    color: var(--cor02);
+    font-family: 'Super Frosting', sans-serif;
+    font-size: 3.5em;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.288);
+    text-align: center;
+}
+
+.paragrafo {
+    color: black;
+    font-size: 20px;
+    line-height: 1.9;
+    color: #DDE6EB;
+    font-weight: 600;
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1280px){
+    .titulo {
+        font-size: 4.5em;
+        text-align: center;
+    }
+}

@@ -1,0 +1,23 @@
+.navbar {
+    background-color: #22222273;
+}
+
+.list {
+    list-style-type: none;
+    padding: 8px;
+}
+
+.list a {
+    color: white;
+    text-decoration: none;
+}
+
+.list a:hover {
+    text-decoration: underline;
+    color: var(--cor04);
+    background-color: var(--cor02);
+    border-radius: 10px 12px;
+    padding: 5px;
+    transition-duration: .2s;
+    font-size: 18px;
+}
