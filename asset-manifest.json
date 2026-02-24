@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Projeto-SoundMind/static/css/main.3bc6a353.css",
-    "main.js": "/Projeto-SoundMind/static/js/main.76bc4aff.js",
-    "static/media/fundo-home.png": "/Projeto-SoundMind/static/media/fundo-home.02561734e103a755b315.png",
-    "static/media/Super Frosting.ttf": "/Projeto-SoundMind/static/media/Super Frosting.caca9ce8eef661c233ae.ttf",
-    "index.html": "/Projeto-SoundMind/index.html",
-    "main.3bc6a353.css.map": "/Projeto-SoundMind/static/css/main.3bc6a353.css.map",
-    "main.76bc4aff.js.map": "/Projeto-SoundMind/static/js/main.76bc4aff.js.map"
+    "main.css": "/Projeto-soundmind/static/css/main.a28633ff.css",
+    "main.js": "/Projeto-soundmind/static/js/main.76bc4aff.js",
+    "static/media/fundo-home.png": "/Projeto-soundmind/static/media/fundo-home.02561734e103a755b315.png",
+    "static/media/Super Frosting.ttf": "/Projeto-soundmind/static/media/Super Frosting.caca9ce8eef661c233ae.ttf",
+    "index.html": "/Projeto-soundmind/index.html",
+    "main.a28633ff.css.map": "/Projeto-soundmind/static/css/main.a28633ff.css.map",
+    "main.76bc4aff.js.map": "/Projeto-soundmind/static/js/main.76bc4aff.js.map"
   },
   "entrypoints": [
-    "static/css/main.3bc6a353.css",
+    "static/css/main.a28633ff.css",
     "static/js/main.76bc4aff.js"
   ]
 }
