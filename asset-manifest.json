@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Projeto-SoundMind/static/css/main.3bc6a353.css",
+    "main.js": "/Projeto-SoundMind/static/js/main.04633902.js",
+    "static/media/fundo-home.png": "/Projeto-SoundMind/static/media/fundo-home.02561734e103a755b315.png",
+    "static/media/Super Frosting.ttf": "/Projeto-SoundMind/static/media/Super Frosting.caca9ce8eef661c233ae.ttf",
+    "index.html": "/Projeto-SoundMind/index.html",
+    "main.3bc6a353.css.map": "/Projeto-SoundMind/static/css/main.3bc6a353.css.map",
+    "main.04633902.js.map": "/Projeto-SoundMind/static/js/main.04633902.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bc6a353.css",
+    "static/js/main.04633902.js"
+  ]
+}
