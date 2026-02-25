@@ -66,7 +66,9 @@ function Jogar() {
 
     return (
         <div className={styles.layout}>
-            <audio ref={audioRef} src={fase.som} />
+            <audio ref={audioRef} key={fase.som}>
+  <source src={fase.som} type="audio/mpeg" />
+</audio>
             <div onClick={togglePlay}>
 
             {isPlaying ? (
