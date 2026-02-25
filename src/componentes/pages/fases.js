@@ -113,7 +113,7 @@ export      const fases = [
 
          {
             id: 17,
-            som: '/sons/Tamandua-bandeira.mp3',
+            som: '/sons/tamandua-bandeira.mp3',
             opcoes: ['Cavalo', 'Galo-da-serra', 'Tamanduá-bandeira', 'Jacaré'],
             respostacerta: 'Tamanduá-bandeira',
         },

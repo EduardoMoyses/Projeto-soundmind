@@ -1,4 +1,3 @@
-import React from 'react';
 import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import Header from './componentes/layout/header';
 import Container from './componentes/layout/container';
@@ -17,8 +16,8 @@ function App() {
             <Route path='/jogar' element={<Jogar />} />
           </Routes>
         </Container>
-        <Footer />
       </Router>
+      <Footer />
     </div>
   );
 }

@@ -7,7 +7,6 @@
 body {
   height: 100vh;
   width: 100vw;
-  /*background-color: #1A252F;*/
 }
 
 .app-container {
@@ -17,16 +16,15 @@ body {
 }
 
 :root {
-    --cor00: #88A8C2; /*Azul-acizentado*/
-    --cor01: #00BCA3; /*Ciano-suave*/
-    --cor02: #5ED6E8; /*Azul-claro*/
-    --cor03:#00FFC6; /*Ciano-claro*/
-    --cor04:#0F2C3F; /*Azul-profundo*/
-    --cor05:#1F4068; /*Azul-médio*/
-    --cor06: #233547; /*Azul-escuro profundo*/
+  --cor00: #88A8C2;
+  --cor01: #00BCA3;
+  --cor02: #5ED6E8;
+  --cor03: #00FFC6;
+  --cor04: #0F2C3F;
+  --cor05: #1F4068;
+  --cor06: #233547;
 
-      /* Cores de apoio (contrastantes) */
-    --corAlerta: #FF4C4C;     /* Vermelho alerta */
-    --corSucesso: #5BE47B;    /* Verde sucesso */
-    --corAviso: #FFD93D;      /* Amarelo vibrante */
-  }
+  --corAlerta: #FF4C4C;
+  --corSucesso: #5BE47B;
+  --corAviso: #FFD93D;
+}
